@@ -1,2 +1,2 @@
-# jAthena
+# jAthena (Japanese Athena)
  RO Server Emulator
